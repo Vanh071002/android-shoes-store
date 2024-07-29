@@ -1,5 +1,4 @@
-# android-shoes-store
-This academic course project focuses on developing an e-commerce website for selling shoes and sneakers.
+## This academic course project focuses on developing an e-commerce website for selling shoes and sneakers.
 
 ## Technologies Used
 - **Front-end:** HTML, CSS, JavaScript
